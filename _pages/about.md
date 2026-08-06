@@ -60,6 +60,4 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 
 # 🌿 Services
 - *2022.01 - present*, Member of the Board of Reviewers, Journal of the Undergraduate Linguistics Association of Britain (JOULAB)
-- *2024.09 - 2026.09*, Volunteer Chinese Language Teacher, ePlus Education. [2026 Classic Recitation Month: Poetry in the Stars](https://ya-nanwang.github.io/eplus-poetry-2026/)
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Class Gallery</div><a href="https://ya-nanwang.github.io/eplus-poetry-2026/" target="_blank"><img src='images/poetry-cover.png' alt="Poetry in the Stars" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
+- *2024.09 - 2026.09*, Volunteer Chinese Language Teacher, ePlus Education. [[2026 Classic Recitation Month: Poetry in the Stars]](https://ya-nanwang.github.io/eplus-poetry-2026/)
