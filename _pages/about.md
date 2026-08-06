@@ -62,14 +62,7 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 - *2022.01 - present*, Member of the Board of Reviewers, Journal of the Undergraduate Linguistics Association of Britain (JOULAB)
 - *2024.09 - 2026.09*, Volunteer Chinese Language Teacher, ePlus Education.
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-  <div>
-    <div class="badge">Class Gallery</div>
-    <!-- 请将下面这行的图片名字换成你实际截图的名字 -->
-    <img src='images/poetry-cover.png' alt="Poetry in the Stars" width="100%">
-  </div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Class Gallery</div><a href="https://ya-nanwang.github.io/eplus-poetry-2026/" target="_blank"><img src='images/poetry-cover.png' alt="Poetry in the Stars" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [🌸 2026 Classic Recitation Month: Poetry in the Stars](https://ya-nanwang.github.io/eplus-poetry-2026/)
